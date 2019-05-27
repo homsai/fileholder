@@ -14,8 +14,8 @@
 			<!--
  style should be applied on layer "1", reference the style by it's name "lineSymbolizer" 
 -->
-			<sld:Name>VMELEV_EL_CONTOUR_NFD</sld:Name>
-			<sld:Title>VMELEV_EL_CONTOUR_NFD</sld:Title>
+			<sld:Name>VMELEV_EL_CONTOUR</sld:Name>
+			<sld:Title>VMELEV_EL_CONTOUR</sld:Title>
 			<sld:FeatureTypeStyle>
 				<sld:Rule>
 					<!--
